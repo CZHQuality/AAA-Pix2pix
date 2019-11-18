@@ -2,10 +2,6 @@
 **AAAI2020 poster paper**: A New Ensemble Adversarial Attack Powered by Long-term Gradient Memories
 
 
-Accepted by IEEE Transactions on Image Processing: https://ieeexplore.ieee.org/document/8866748
-
-
-
 We provide 3 visualizations (GIF format) for your reference.
 
 Each GIF contains two parts:
