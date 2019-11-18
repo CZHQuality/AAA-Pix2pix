@@ -29,16 +29,11 @@ The timestamp denotes the iterations.
 
 **Code will be released after our journal version is accepted, thanks!!!**
 
-Citation:
+**Citation:**
 
-@article{SMBEA,
-
-author = {Z. Che and A. Borji and G. Zhai and S. Ling and J. Li and P. L. Callet},
-
-title = {A New Ensemble Adversarial Attack Powered by Long-term Gradient Memories},
-
-journal = {Association for the Advancement of Artificial Intelligence},
-
-year = {2020}
-
+@InProceedings{SMBEA,
+author={Z. Che and A. Borji and G. Zhai and S. Ling and J. Li and P. L. Callet},
+booktitle={Association for the Advancement of Artificial Intelligence (AAAI)},
+title={A New Ensemble Adversarial Attack Powered by Long-term Gradient Memories},
+year={2020},
 }
