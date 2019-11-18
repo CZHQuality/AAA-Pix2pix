@@ -1,4 +1,4 @@
-# AAA-Pix2pix
+# SMBEA: Serial-Mini-Batch-Ensemble-Attack against Pix2pix Tasks
 **AAAI2020 paper**: A New Ensemble Adversarial Attack Powered by Long-term Gradient Memories
 
 
@@ -32,8 +32,13 @@ The timestamp denotes the iterations.
 **Citation:**
 
 @InProceedings{SMBEA,
+
 author={Z. Che and A. Borji and G. Zhai and S. Ling and J. Li and P. L. Callet},
+
 booktitle={Association for the Advancement of Artificial Intelligence (AAAI)},
+
 title={A New Ensemble Adversarial Attack Powered by Long-term Gradient Memories},
+
 year={2020},
+
 }
