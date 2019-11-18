@@ -4,19 +4,6 @@
 
 Accepted by IEEE Transactions on Image Processing: https://ieeexplore.ieee.org/document/8866748
 
-Citation:
-
-@article{SMBEA,
-
-author = {Z. Che and A. Borji and G. Zhai and S. Ling and J. Li and P. L. Callet},
-
-title = {A New Ensemble Adversarial Attack Powered by Long-term Gradient Memories},
-
-journal = {Association for the Advancement of Artificial Intelligence},
-
-year = {2020}
-
-}
 
 
 We provide 3 visualizations (GIF format) for your reference.
@@ -42,3 +29,20 @@ The timestamp denotes the iterations.
 **Visualizations on LSUN'17 Dataset：**
 
 ![image](https://github.com/CZHQuality/AAA-Pix2pix/blob/master/Visualizations/3_Our_Attack_Google.gif)
+
+
+**Code will be released after our journal version is accepted, thanks!!!**
+
+Citation:
+
+@article{SMBEA,
+
+author = {Z. Che and A. Borji and G. Zhai and S. Ling and J. Li and P. L. Callet},
+
+title = {A New Ensemble Adversarial Attack Powered by Long-term Gradient Memories},
+
+journal = {Association for the Advancement of Artificial Intelligence},
+
+year = {2020}
+
+}
