@@ -1,5 +1,5 @@
 # SMBEA: Serial-Mini-Batch-Ensemble-Attack against Pix2pix Tasks
-**AAAI2020 paper**: A New Ensemble Adversarial Attack Powered by Long-term Gradient Memories
+**AAAI2020 paper**: **‘‘A New Ensemble Adversarial Attack Powered by Long-term Gradient Memories’’**
 
 
 We provide 3 visualizations (GIF format) for your reference.
