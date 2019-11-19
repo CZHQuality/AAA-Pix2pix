@@ -22,7 +22,7 @@ The timestamp denotes the iterations.
 
 ![image](https://github.com/CZHQuality/AAA-Pix2pix/blob/master/Visualizations/2_Our_Attack_Cityspaces.gif)
 
-**Visualizations on LSUN'17 Dataset：**
+**Visualizations on Google Satellite Images：**
 
 ![image](https://github.com/CZHQuality/AAA-Pix2pix/blob/master/Visualizations/3_Our_Attack_Google.gif)
 
