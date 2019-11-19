@@ -30,15 +30,17 @@ The timestamp denotes the iterations.
 
 **Requirements**
 
-Pytorch 3.5.2
+1. Pytorch 3.5.2
 
-NVIDIA GPU (at least 16GB memory for ensemble attacks!!)
+2. NVIDIA GPU (at least 16GB memory for ensemble attacks!!)
 
-You have to compile the Deformable Convolution Lib by your self: **https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch**
+3. You have to compile the Deformable Convolution Lib by your self: **https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch** (Required)
+
+4. If you want to train/design/enhance the victim model from scratch to defend different attacks in our literature, please visit **https://github.com/CZHQuality/Sal-CFS-GAN** for more details about model training. These two repositories support each other.
 
 
 
-**Completed version of our code will be released after our journal version is accepted, thanks!!!**
+**Complete version (including feature-space ensemble, long-term gradient auto-update) of our code will be released after our journal version is accepted, thanks!!!**
 
 
 
