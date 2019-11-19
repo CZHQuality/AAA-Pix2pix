@@ -26,8 +26,15 @@ The timestamp denotes the iterations.
 
 ![image](https://github.com/CZHQuality/AAA-Pix2pix/blob/master/Visualizations/3_Our_Attack_Google.gif)
 
+**Requirements**
 
-**Code will be released after our journal version is accepted, thanks!!!**
+Pytorch 3.5.2
+
+NVIDIA GPU (at least 16GB memory for ensemble attacks!!)
+
+You have to compile the Deformable Convolution Lib by your self: **https://github.com/chengdazhi/Deformable-Convolution-V2-PyTorch**
+
+**Completed version of our code will be released after our journal version is accepted, thanks!!!**
 
 **Citation:**
 
