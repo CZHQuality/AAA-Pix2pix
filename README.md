@@ -1,9 +1,9 @@
 # SMBEA: Serial-Mini-Batch-Ensemble-Attack
 
-SMBEA is a new **Black-Box** Adversarial Attack against various **Pixel-to-Pixel** Tasks, such as **Saliency Detection, Depth Estimation, Image Translation, Style Transfer, etc.**
+**SMBEA** is a new **Black-Box** Adversarial Attack against various **Pixel-to-Pixel** Tasks, such as **Saliency Detection, Depth Estimation, Image Translation, Style Transfer, etc.**
 
 A **preliminary version** of this repository has been accepted by
-**AAAI2020**: ‘‘A New Ensemble Adversarial Attack Powered by Long-term Gradient Memories’’
+**AAAI2020**: ‘‘***A New Ensemble Adversarial Attack Powered by Long-term Gradient Memories***’’
 
 
 We provide 3 visualizations (GIF format) for your reference.
@@ -26,7 +26,7 @@ The timestamp denotes the iterations.
 
 ![image](https://github.com/CZHQuality/AAA-Pix2pix/blob/master/Visualizations/2_Our_Attack_Cityspaces.gif)
 
-**Visualizations on Google Satellite Images：**
+**Visualizations on Google Satellite Dataset：**
 
 ![image](https://github.com/CZHQuality/AAA-Pix2pix/blob/master/Visualizations/3_Our_Attack_Google.gif)
 
