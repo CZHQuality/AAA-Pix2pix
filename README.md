@@ -34,7 +34,7 @@ The timestamp denotes the iterations.
 
 **Requirements**
 
-1. Pytorch 3.5.2
+1. Pytorch == 3.5.2
 
 2. NVIDIA GPU (at least 16GB memory for ensemble attacks!!)
 
