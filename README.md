@@ -1,4 +1,6 @@
-# SMBEA: Serial-Mini-Batch-Ensemble-Attack && An Open-Source Toolbox 
+#  An Open-Source Toolbox:
+
+# SMBEA: Serial-Mini-Batch-Ensemble-Attack
 
 **SMBEA** is a new **Black-Box** Adversarial Attack against various **Pixel-to-Pixel** Tasks, such as **Saliency Detection, Depth Estimation, Image Translation, Style Transfer, etc.**
 
