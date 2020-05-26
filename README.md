@@ -1,6 +1,6 @@
-# SMBEA: Serial-Mini-Batch-Ensemble-Attack
+# SMGEA: Serial-Mini-Group-Ensemble-Attack
 
-**SMBEA** is a new **Black-Box** Adversarial Attack against various **Pixel-to-Pixel** Tasks, such as **Saliency Detection, Depth Estimation, Image Translation, Style Transfer, etc.** This code repository is an Open-Source Toolbox based on Pytorch Platform.
+**SMGEA** is a new **Black-Box** Adversarial Attack against various **Pixel-to-Pixel** Tasks, such as **Saliency Detection, Depth Estimation, Image Translation, etc.** This code repository is an Open-Source Toolbox based on Pytorch Platform.
 
 A **preliminary version** of this repository has been accepted by
 **AAAI2020**: ‘‘***A New Ensemble Adversarial Attack Powered by Long-term Gradient Memories***’’
